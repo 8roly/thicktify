@@ -2,7 +2,7 @@
 # thicktify
 a simple edit of [khanas' spicetify rainmeter plugin](https://github.com/khanhas/Spicetify) with thicker padding and brighter colors!
 # how to use:
-download and extract the contents of Thicktify.zip right to your spicetify themes directory!  (probably something like documents/rainmeter/skins/spicetify/themes)  to apply the theme, open the spicetify editor through rainmeter and click the theme arrow in the top left until you get to my theme!
+[download and extract](https://github.com/8roly/thicktify/raw/master/Thicktify.zip) the contents of Thicktify.zip right to your spicetify themes directory!  (probably something like documents/rainmeter/skins/spicetify/themes)  to apply the theme, open the spicetify editor through rainmeter and click the theme arrow in the top left until you get to my theme!
 # notes:
 i use the "preserve" color as the color of the elements in the bottom bar, as i didn't see it being used anywhere else.  the color of the bottom bar is also linked to the main FG color, which is used as an accent color throughout the rest of the playlist view.  it worked for me, so hopefully it'll work for you, too!
 
